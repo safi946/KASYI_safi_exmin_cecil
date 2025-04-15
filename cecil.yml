@@ -1,0 +1,8 @@
+title: "KAVUGHO KASAY SAFI"
+baseline: 'ce ma première expérience avec cecil'
+baseurl: 'https://baraka24.github.io/first-cecil-project/' #http://localhost:8000
+description: 'apprendre cecil et réaliser mon examen'
+author:
+  name: KAVUGHO KASAY SAFI
+  url: 'https://github.com/safi/'
+image: cecil-card.png
